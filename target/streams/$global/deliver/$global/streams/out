@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: hello#hello_2.11;0.0.1 :: 0.0.1 :: release :: Tue Feb 09 17:52:52 JST 2016[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Tue Feb 09 17:52:52 JST 2016 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /Users/changki_choi/work/projects/gitprac/scalaHello/target/scala-2.11/ivy-0.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (53ms)[0m

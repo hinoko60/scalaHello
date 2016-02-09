@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging /Users/changki_choi/work/projects/gitprac/scalaHello/target/scala-2.11/hello_2.11-0.0.1.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	sample[0m
+[0m[[0mdebug[0m] [0m	  /Users/changki_choi/work/projects/gitprac/scalaHello/target/scala-2.11/classes/sample[0m
+[0m[[0mdebug[0m] [0m	sample/hello[0m
+[0m[[0mdebug[0m] [0m	  /Users/changki_choi/work/projects/gitprac/scalaHello/target/scala-2.11/classes/sample/hello[0m
+[0m[[0mdebug[0m] [0m	sample/hello/Hello$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/changki_choi/work/projects/gitprac/scalaHello/target/scala-2.11/classes/sample/hello/Hello$.class[0m
+[0m[[0mdebug[0m] [0m	sample/hello/Hello.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/changki_choi/work/projects/gitprac/scalaHello/target/scala-2.11/classes/sample/hello/Hello.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
